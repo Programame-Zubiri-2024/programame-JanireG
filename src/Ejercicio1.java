@@ -15,7 +15,6 @@ public class Ejercicio1 {
                 count++;
             }
         }
-
         System.out.println("La sílaba 'pa' aparece " + count + " veces.");
     }
 }
